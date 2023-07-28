@@ -1,2 +1,3 @@
 # Chapter-Comparison-Model
-An analysis and comparison of two chapters of The Rise and Fall of the Roman Empire using various AI/ML technologies for language processing and visualization
+
+[Access the Google Collab Here](https://colab.research.google.com/drive/18xbA93eZ8n4rYDxSyfOBpZGBXdBK3y7I)
